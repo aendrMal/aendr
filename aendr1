@@ -1,0 +1,10 @@
+/**
+ * @name BetterDiscord Pub
+ * @version 1
+ * @description Plugin to color Public button in discord
+ * @author aendr
+ * @source 
+ */
+#bd-pub-button{
+    background-image: url(https://media2.giphy.com/media/elzCLKtnZ4nrFKizhe/giphy.gif);
+ }
